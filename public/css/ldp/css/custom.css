@@ -1,0 +1,53 @@
+.navcontainer{
+	background-color: #fff;
+	border-radius: 30px;
+	padding: 4px;
+	color: #F7E2C6;
+	text-align: center;
+	width: 90%;
+	margin: auto;
+
+}
+
+.navcontainer ul{
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 10px;
+	margin: auto;
+}
+
+.navcontainer ul li a:hover{
+	background-color: #EFF1F2;
+	border-radius: 30px;
+	letter-spacing: 1px;
+	color: #000;
+}
+
+.navcontainer ul li{
+	text-align: center;
+	padding-left: 6%;
+}
+
+.navcontainer ul li a{
+	color: #88959E;
+	font-weight: bolder;
+}
+
+.sectcont{
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 700px;
+	width: 100%;
+	border-radius: 30px;
+	background-color: #CECECE;
+}
+
+.tabcont{
+	padding-top: 90px;
+	margin-bottom: 70px;
+}
+
+.dividerr{
+	height: 100px;
+}
